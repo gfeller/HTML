@@ -1,0 +1,10 @@
+| 48 | 61 | 6c | 6c | 6f |
+| h  | a  | l  | l  | w  |
+
+| 4d | a4 | c3 | a4 | c3 | 68 | 68 |
+| h  | a  | l  | l  | w  | h  | h  |
+
+
+| Z  | ü     | r  | i  | c  | h  | utf-8
+| 5a | c3 bc | 72 | 69 | 63 | 68 | byte
+| Z  | Ã  ¼  | r  | i  | c  | h  | ASCII
